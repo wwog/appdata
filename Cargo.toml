@@ -2,7 +2,7 @@
 authors = ["wwog <github.com/wwog>"]
 name = "app_data"
 description = "A library for managing application data directories, including Windows, macOS, and Linux"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
 keywords = ["app_data", "data", "directory", "cross-platform", "filesystem"]

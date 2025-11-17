@@ -20,4 +20,4 @@
 
 mod app_data;
 
-pub use app_data::AppData;
+pub use app_data::{AppData, AppDataError};
