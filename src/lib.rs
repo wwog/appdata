@@ -3,7 +3,7 @@
 <summary><b>English Documentation</b></summary>
 
 "#]
-#![doc = include_str!("../docs/README_EN.md")]
+#![doc = include_str!("../docs/README.md")]
 #![doc = r#"
 
 </details>
