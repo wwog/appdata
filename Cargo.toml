@@ -8,4 +8,4 @@ license = "MIT"
 keywords = ["app_data", "data", "directory", "cross-platform", "filesystem"]
 repository = "https://github.com/wwog/appdata"
 documentation = "https://docs.rs/app_data"
-categories = ["development", "library", "filesystem"]
+categories = ["config", "filesystem"]
