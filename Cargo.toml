@@ -1,0 +1,11 @@
+[package]
+authors = ["wwog <github.com/wwog>"]
+name = "app_data"
+description = "A library for managing application data directories, including Windows, macOS, and Linux"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+keywords = ["app_data", "data", "directory", "cross-platform", "filesystem"]
+repository = "https://github.com/wwog/app_data"
+documentation = "https://docs.rs/app_data"
+categories = ["development", "library", "filesystem"]
